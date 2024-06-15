@@ -63,7 +63,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,wasm,python,flutter,react,nextjs,aws,django,docker,jenkins,git,vscode" alt="My Skills"/>
+        <img src="https://skillicons.dev/icons?i=js,html,css,wasm,python,flutter,react,nextjs,aws,django,docker,jenkins,git,vscode,,nextjs,nodejs,python,anaconda,androidstudio,angular,bash,dart,debian,django,fastapi,flask,linux,pnpm,raspberrypi,redis,selenium,terraform,aws,flutter,express,pytorch,tensorflow,graphql,mongodb,postgres,firebase,gcp,materialui,sass,git,postman,vscode,figma" alt="My Skills"/>
     </a>
 </div>
 
