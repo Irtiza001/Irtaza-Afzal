@@ -7,25 +7,38 @@
 <h5 align="center">A passionate software developer from Pakistan,creative problem solver, and lifelong learner. My GitHub profile is the canvas where I paint my ideas, the laboratory where I experiment with cutting-edge technologies, and the library where I share my open-source contributions with the world </h5>
 <br/>
 
-
 <!-- What I'm Up To Section -->
 <h2>💻 What I'm Up To</h2>
 <ul>
-    <li>🎉 Celebrating <strong>5 years</strong> of transformative technology development.</li>
-    <li>🌱 Deep diving into <strong>Next.js</strong> and <strong>React.js</strong>, mastering <strong>AWS Data Engineering</strong>, and exploring <strong>Backend Development</strong> with Django and DRF.</li>
+    <li>🎉 Celebrating <strong>1 years</strong> of transformative technology development.</li>
+    <li>🌱 Deep diving into <strong>Next.js</strong> and <strong>React.js</strong>, mastering <strong>AWS Data Engineering</strong>, and exploring 
+        <strong>Frontend Development</strong>,<strong>Backend Development</strong> with Django and DRF.</li>
     <li>🛠️ Looking for exciting <strong>freelance opportunities</strong> and long-term remote projects where I can contribute and learn.</li>
 </ul>
 
 <!-- 2024 Goals Section -->
 <h2>🎯 2024 Goals</h2>
 <ul>
-    <li>Expand my professional network and secure global business partnerships.</li>
-    <li>Leverage my skills to reach a wider clientele, helping businesses harness the power of AI and cloud technologies.</li>
+    <li>Contribute to at least three major open-source projects to give back to the community.</li>
+    <li>Enhance my expertise in cloud computing by obtaining AWS Certified Solutions Architect certification.</li>
+    <li>Start a blog to share insights, tutorials, and experiences related to AI, web development, and cloud technologies.</li>
+    <li>Participate in tech conferences and webinars to stay updated with the latest trends and innovations.</li>
+    <li>Mentor junior developers and contribute to educational initiatives to inspire the next generation of tech enthusiasts.</li>
 </ul>
+
 
 <!-- Fun Fact Section -->
 <h2>😄 Fun Fact</h2>
 <p>I'm a multi-talented tech enthusiast who loves solving puzzles not just on the screen, but in real life too!</p>
+
+<!-- Why Follow Me Section -->
+<h2>🌟 Why Follow Me?</h2>
+<ul>
+    <li><strong>Innovative Solutions:</strong> Discover projects that tackle unique challenges with creativity and precision.</li>
+    <li><strong>Quality Code:</strong> Clean, efficient, and well-documented code that adheres to best practices.</li>
+    <li><strong>Community Engagement:</strong> Active participation in discussions, issues, and pull requests to foster a collaborative environment.</li>
+    <li><strong>Continuous Learning:</strong> A commitment to learning new skills and technologies, and sharing that knowledge with the community.</li>
+</ul>
 
 <!-- How to Reach Me Section -->
 <h2>📫 How to Reach Me</h2>
