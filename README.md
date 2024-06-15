@@ -53,17 +53,26 @@
 <!-- Hire Me Section -->
 <h2>🌟 Hire Me!</h2>
 <ul>
-    <li><a href="https://www.fiverr.com/thepyclan"> Fiverr: thepyclan</a></li>
-    <li><a href="https://www.fiverr.com/reshailawan">Upwork: reshailawan</a></li>
+    <li> Fiverr:<a href="https://www.fiverr.com/thepyclan">thepyclan</a></li>
+    <li> Upwork:<a href="https://www.fiverr.com/reshailawan">reshailawan</a></li>
     <li><a href="https://github.com/M-S-KHAN">Check out my GitHub</a></li>
 </ul>
 
  
+<!-- Languages and Tools Section -->
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,wasm,python,flutter,react,nextjs,aws,django,docker,jenkins,git,vscode,,nextjs,nodejs,python,anaconda,androidstudio,angular,bash,dart,debian,django,fastapi,flask,linux,pnpm,raspberrypi,redis,selenium,terraform,aws,flutter,express,pytorch,tensorflow,graphql,mongodb,postgres,firebase,gcp,materialui,sass,git,postman,vscode,figma" alt="My Skills"/>
+        <img src="https://skillicons.dev/icons?i=js,html,css,wasm,python,flutter,react,nextjs,aws,django,docker,jenkins,git,vscode,nodejs,anaconda,androidstudio,angular,bash,dart,debian,fastapi,flask,linux,pnpm,raspberrypi,redis,selenium,terraform,express,pytorch,tensorflow,graphql,mongodb,postgres,firebase,gcp,materialui,sass,postman,figma" alt="My Skills"/>
+    </a>
+</div>
+
+<!-- GitHub Profile Trophy -->
+<h2 align="center">🏆 GitHub Profile Trophy 🏆</h2>
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="GitHub Profile Trophy" />
     </a>
 </div>
 
