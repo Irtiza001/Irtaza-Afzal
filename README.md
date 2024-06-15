@@ -4,43 +4,59 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Irtaza+Afzal!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Pakistan,creative problem solver, and lifelong learner. My GitHub profile is the canvas where I paint my ideas, the laboratory where I experiment with cutting-edge technologies, and the library where I share my open-source contributions with the world </h3>
+<h5 align="center">A passionate software developer from Pakistan,creative problem solver, and lifelong learner. My GitHub profile is the canvas where I paint my ideas, the laboratory where I experiment with cutting-edge technologies, and the library where I share my open-source contributions with the world </h5>
 <br/>
 
-<div align="left">
-Who Am I? 👨‍💻
-With a background in Computer Science, I thrive on challenges that push the boundaries of what's possible.<br>
- Whether I'm delving into complex algorithms, designing intuitive user interfaces, or building robust back-end systems,
-<br> my goal is to create elegant and efficient solutions that make a difference.
-</div>
 
-<div align="center">
-    
-💻 What I'm Up To
-  
-🎉 Celebrating 1 years of transformative technology development.
+<!-- What I'm Up To Section -->
+<h2>💻 What I'm Up To</h2>
+<ul>
+    <li>🎉 Celebrating <strong>5 years</strong> of transformative technology development.</li>
+    <li>🌱 Deep diving into <strong>Next.js</strong> and <strong>React.js</strong>, mastering <strong>AWS Data Engineering</strong>, and exploring <strong>Backend Development</strong> with Django and DRF.</li>
+    <li>🛠️ Looking for exciting <strong>freelance opportunities</strong> and long-term remote projects where I can contribute and learn.</li>
+</ul>
 
-🌱 Learning Next.js and React.js, mastering AWS Data Engineering, and exploring Backend Development with Django.
+<!-- 2024 Goals Section -->
+<h2>🎯 2024 Goals</h2>
+<ul>
+    <li>Expand my professional network and secure global business partnerships.</li>
+    <li>Leverage my skills to reach a wider clientele, helping businesses harness the power of AI and cloud technologies.</li>
+</ul>
 
-🛠️ Looking for exciting freelance opportunities and long-term remote projects where I can contribute and learn.
+<!-- Fun Fact Section -->
+<h2>😄 Fun Fact</h2>
+<p>I'm a multi-talented tech enthusiast who loves solving puzzles not just on the screen, but in real life too!</p>
 
-⚡ Fun fact I'm a multi-talented tech enthusiast who loves solving puzzles not just on the screen, but in real life too!
+<!-- How to Reach Me Section -->
+<h2>📫 How to Reach Me</h2>
+<ul>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/m-sajawal-khan">m-sajawal-khan</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/M-S-KHAN">M-S-KHAN</a></li>
+    <li><strong>YouTube:</strong> <a href="https://www.youtube.com/channel/UCgCfHVVYrX_a5G0Tf6YbPiQ">MSK Devs</a></li>
+    <li><strong>Instagram:</strong> <a href="https://www.instagram.com/msk.devs">MSK Devs</a></li>
+    <li><strong>Hire Me on Fiverr:</strong> <a href="https://www.fiverr.com/thepyclan">thepyclan</a>, <a href="https://www.fiverr.com/reshailawan">reshailawan</a></li>
+</ul>
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:irtaza.afzal027@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="(https://www.linkedin.com/in/irtiza-afzal-4164b8261/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/Irtiza001" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+<!-- Languages and Tools Section -->
+<h2>🛠️ Languages and Tools:</h2>
+<p align="left">
+    <!-- Add your preferred icons here -->
+</p>
 
- <hr/>
+<!-- GitHub Stats Section -->
+<h2>🏆 GitHub Stats</h2>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-S-KHAN" alt="M-S-KHAN's GitHub Streak" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=M-S-KHAN&show_icons=true&theme=radical" alt="M-S-KHAN's GitHub stats" />
+</p>
+
+<!-- Wakatime Stats Section -->
+<h2>📊 Coding Stats</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=M-S-KHAN" alt="M-S-KHAN's Wakatime stats" />
+</p>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
