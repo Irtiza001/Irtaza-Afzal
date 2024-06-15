@@ -4,16 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Irtaza+Afzal!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Pakistan </h3>
-
+<h3 align="center">A passionate software developer from Pakistan,creative problem solver, and lifelong learner. My GitHub profile is the canvas where I paint my ideas, the laboratory where I experiment with cutting-edge technologies, and the library where I share my open-source contributions with the world </h3>
 <br/>
 
+<div align="left">
+Who Am I? 👨‍💻
+With a background in Computer Science, I thrive on challenges that push the boundaries of what's possible.<br>
+ Whether I'm delving into complex algorithms, designing intuitive user interfaces, or building robust back-end systems,
+<br> my goal is to create elegant and efficient solutions that make a difference.
+</div>
+
 <div align="center">
+    
 💻 What I'm Up To
   
 🎉 Celebrating 1 years of transformative technology development.
 
-🌱 Learning Next.js and React.js, mastering AWS Data Engineering, and exploring Backend Development with Django .
+🌱 Learning Next.js and React.js, mastering AWS Data Engineering, and exploring Backend Development with Django.
 
 🛠️ Looking for exciting freelance opportunities and long-term remote projects where I can contribute and learn.
 
@@ -22,14 +29,14 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:irtaza.afzal027@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="(https://www.linkedin.com/in/irtiza-afzal-4164b8261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://github.com/Irtiza001" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -65,14 +72,7 @@
 </div>
 
 <br/><br/>
-
 <hr/>
-
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
 <br/>
 
