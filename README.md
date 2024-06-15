@@ -43,18 +43,16 @@
 <!-- How to Reach Me Section -->
 <h2>📫 How to Reach Me</h2>
 <ul>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/m-sajawal-khan">m-sajawal-khan</a></li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/M-S-KHAN">M-S-KHAN</a></li>
-    <li><strong>YouTube:</strong> <a href="https://www.youtube.com/channel/UCgCfHVVYrX_a5G0Tf6YbPiQ">MSK Devs</a></li>
-    <li><strong>Instagram:</strong> <a href="https://www.instagram.com/msk.devs">MSK Devs</a></li>
-    <li><strong>Hire Me on Fiverr:</strong> <a href="https://www.fiverr.com/thepyclan">thepyclan</a>, <a href="https://www.fiverr.com/reshailawan">reshailawan</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/irtiza-afzal-4164b8261/">Irtaza Afzal</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/Irtiza001">Irtaza Afzal</a></li>
+    <li><strong>Instagram:</strong> <a href="https://www.instagram.com/shecallmebella__01?igsh=MWYxMGlmdnM0dXF1aw==">Shecallmebella</a></li>
+    <li><strong>Hire Me on Fiverr:</strong> <a href="https://www.fiverr.com/irtazaafzal837?up_rollout=true">Irtaza Afzal</a>
 </ul>
 
 <!-- Hire Me Section -->
 <h2>🌟 Hire Me!</h2>
 <ul>
-    <li> Fiverr:<a href="https://www.fiverr.com/thepyclan">thepyclan</a></li>
-    <li> Upwork:<a href="https://www.fiverr.com/reshailawan">reshailawan</a></li>
+    <li> Fiverr:<a href="https://www.fiverr.com/irtazaafzal837?up_rollout=true">Irtaza Afzal</a></li>
 </ul>
 
  
