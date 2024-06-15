@@ -97,6 +97,12 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<!-- Wakatime Stats Section -->
+<h2>📊 Coding Stats</h2>
+<p align="center">
+    <img src="https://camo.githubusercontent.com/73c84ec8dbd98ade51f559b0f108c122fd41b53a822bd6b71230ac4039f1a601/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d4d534b48414e267468656d653d676f7468616d266c61796f75743d636f6d70616374" alt="Irtaza Afzal Wakatime stats" />
+</p>
+
 <br/><br/>
 <hr/>
 <br/>
