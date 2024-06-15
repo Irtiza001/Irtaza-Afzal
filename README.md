@@ -65,22 +65,6 @@
     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
 </p>
-
-
-<!-- GitHub Stats Section -->
-<h2>🏆 GitHub Stats</h2>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-S-KHAN" alt="M-S-KHAN's GitHub Streak" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=M-S-KHAN&show_icons=true&theme=radical" alt="M-S-KHAN's GitHub stats" />
-</p>
-
-<!-- Wakatime Stats Section -->
-<h2>📊 Coding Stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=M-S-KHAN" alt="M-S-KHAN's Wakatime stats" />
-</p>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
