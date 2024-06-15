@@ -11,7 +11,7 @@
 <h2>💻 What I'm Up To</h2>
 <ul>
     <li>🎉 Celebrating <strong>1 years</strong> of transformative technology development.</li>
-    <li>🌱 Deep diving into <strong>Next.js</strong> and <strong>React.js</strong>, mastering <strong>AWS Data Engineering</strong>, and exploring 
+    <li>🌱 Deep diving into <strong>Next.js</strong> and <strong>React.js</strong>,<strong>AWS Data Engineering</strong>, and exploring 
         <strong>Frontend Development</strong>,<strong>Backend Development</strong> with Django and DRF.</li>
     <li>🛠️ Looking for exciting <strong>freelance opportunities</strong> and long-term remote projects where I can contribute and learn.</li>
 </ul>
@@ -55,7 +55,6 @@
 <ul>
     <li> Fiverr:<a href="https://www.fiverr.com/thepyclan">thepyclan</a></li>
     <li> Upwork:<a href="https://www.fiverr.com/reshailawan">reshailawan</a></li>
-    <li><a href="https://github.com/M-S-KHAN">Check out my GitHub</a></li>
 </ul>
 
  
